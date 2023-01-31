@@ -2,6 +2,10 @@
 - 📫 Contact me at diego.f.bugs@gmail.com
 - 🚀 Find more about on https://diegobugs.com
 
+
+![Github_stats](https://github-readme-stats.vercel.app/api?username=diegobugs&show_icons=true&bg_color=120deg,1c99fe,7644ff,903fdb&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true)
+
+
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
